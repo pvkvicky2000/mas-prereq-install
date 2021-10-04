@@ -4,7 +4,7 @@ Prereq software installation script for Maximo Application Suite 8.4/8.5
 Example:
 ```bash
 $ yum install jq gettext git wget
-$ git clone --recursive https://github.com/nishi2go/mas-prereq-install
+$ git clone --recursive https://github.com/pvkvicky2000/mas-prereq-install
 $ cd mas-prereq-install
 # Get your key from https://myibm.ibm.com/products-services/containerlibrary
 $ export ENTITLEMENT_KEY=<Your entitlement key>
