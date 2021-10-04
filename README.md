@@ -8,7 +8,7 @@ $ git clone --recursive https://github.com/pvkvicky2000/mas-prereq-install
 $ cd mas-prereq-install
 # Get your key from https://myibm.ibm.com/products-services/containerlibrary
 $ export ENTITLEMENT_KEY=<Your entitlement key>
-$ export MONGO_REPLICAS=3
+$ export MONGO_REPLICAS=1
 # Specify your storage class https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 $ export STORAGECLASS_RWO=managed-nfs-storage
 $ export STORAGECLASS_RWM=managed-nfs-storage
