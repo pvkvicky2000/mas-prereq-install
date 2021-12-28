@@ -16,7 +16,7 @@ allowedCapabilities: null
 defaultAddCapabilities: null
 fsGroup:
   type: MustRunAs
-kind: SecurityContextConstraint
+kind: SecurityContextConstraints
 priority: 0
 readOnlyRootFilesystem: false
 requiredDropCapabilities:
